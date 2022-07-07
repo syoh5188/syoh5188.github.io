@@ -8,3 +8,5 @@ Data : winequality-red.csv
 - Basic Setting
 - Machine Learning
 - Deep Learning
+
+**Go back to [index.html](https://syoh5188.github.io/PJ_DLflask/index.html)**
